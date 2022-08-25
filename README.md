@@ -1,7 +1,7 @@
 # PySnake
  Snake game created with pygame
 
-Control: 
+Control -  
 ARROW UP to go up
 ARROW DOWN to go down
 RIGHT ARROW to go right
