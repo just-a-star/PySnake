@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rose-img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.nav {
+  background-color: #827676;
+  margin-bottom: 40px;
+}
+
+.web-name {
+  color: pink;
+  margin-left: 15px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.nav a {
+  margin-left: 20px;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+h1,
+h2 {
+  margin-bottom: 20px;
+}
+
+.nav a:link {
+  text-decoration: none;
+  color: red;
+}
+.nav a:visited {
+  color: pink;
+}
+.nav a:hover {
+  color: red;
+}
+
+.nav a:active {
+  color: pink;
+}
+
+h2 {
+  color: pink;
+  margin-left: 10px;
+}
+
+article {
+  background-color: #827676;
+}
+
+body {
+  background-color: #815a5a;
+}
+
+p {
+  margin-left: 10px;
+  color: pink;
+  margin-bottom: 20px;
+}
